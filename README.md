@@ -9,3 +9,4 @@ The file "main.cpp" creates the listener threads, and the file "client.cpp" crea
 One should run "main.cpp" first, and then "client.cpp".
 The system creates and writes into the file "output.txt".
 
+For comparison, I wrote the same project in Python as well. Feel free to take a look.
